@@ -3,6 +3,7 @@
  - 🌱 I’m currently learning web development, cross-platform mobile app development and with this Web development Java for DSA.
  - 💞️ I’m looking to collaborate on everything. I have a wide perspective in every field, I believe in learning and growing techniques.
  - 📫 If you want to reach me here are my few social media handles:
+ - https://www.instagram.com/mayanksingh510/?hl=en
 
 <!---
 codesecrecy/codesecrecy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
